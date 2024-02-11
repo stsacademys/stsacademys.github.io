@@ -32,24 +32,24 @@ github_username:  stsacademy
 #linkedin_username: stsacademy
 facebook_username: stsacademy
 #youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-
+comments: true
 
 
 # Google Analytics
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: stsacademy
 
 # Name of the Author
-author-name: Hugo i Pol
+author-name: Hugo Feràndez & Pol Marsol
 # URL for the Image of the Author
 author-image: https://i.postimg.cc/qqXfyBjL/e3f8cfc8-52a4-4254-9ab4-d85c14047594.jpg
 # 60 Words About the Author
 author-about: Som un equip d'estudiants que entenem els reptes acadèmics als quals et pots enfrontar. Ens hem unit per crear un espai on l'aprenentatge es fusiona amb l'informàtica, oferint un suport integral perquè aconsegueixis els teus objectius a la universitat.
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/polMarsol
+author-url: https://github.com/stsacademys
 
 # SASS
 sass:
