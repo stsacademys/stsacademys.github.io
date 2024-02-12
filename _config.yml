@@ -32,15 +32,14 @@ github_username:  stsacademy
 #linkedin_username: stsacademy
 facebook_username: stsacademy
 #youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-layout: default
-comments: true
+
 
 
 # Google Analytics
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: stsacademy
+disqus-shortname: 
 
 # Name of the Author
 author-name: Hugo Feràndez & Pol Marsol
